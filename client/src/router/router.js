@@ -1,5 +1,3 @@
-
-
-const publicRoutes = [{ path: "/", element:  }];
+const publicRoutes = [{}];
 
 export { publicRoutes };
